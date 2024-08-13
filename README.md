@@ -1,6 +1,20 @@
 # Credit Card Fraud Detection with 4 Machine Learning Algorithms
 
 
+## Major Tools
+- Pandas
+- NumPy
+- Matplotlib & Seaborn
+- XGBoost
+- Scikit-learn
+- Imbalanced-learn
+- TensorFlow & Keras
+- OS
+- Warnings
+- Scikit-learn Metrics
+- StratifiedKFold & GridSearchCV
+- Matplotlib Inline
+
 ## Dataset Overview
 **Time**: The seconds elapsed between this transaction and the first transaction in the dataset. It helps in understanding the distribution of transactions over time.
 
